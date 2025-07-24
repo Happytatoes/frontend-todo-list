@@ -5,7 +5,6 @@ A simple, browser-based to-do list app built to strengthen core frontend develop
 ## Features
 
 Add, complete, and delete tasks
-Persistent task list stored in browser localStorage
 Simple and intuitive user interface
 
 ## Installation
